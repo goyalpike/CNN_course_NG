@@ -10,7 +10,13 @@ There are several examples from the course (instead used Keras implementation as
 3. In the third example, we work on the fundamental of a ResNet which is known to be a powerful architecture for learning a deep network by alleviating the gradient vanishing problem.
 4. In the forth example, we implement Neural Transfer Style algorithm, meaning transform an image in a given Style.
 
-***Note*** All the scripts are run on the Google Colab. It is prefered to run in GPU for speed-up; on a CPU, they would be very slow.
+## Source 
+* [Coursera Course](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+## Google Colab
+[Google Colab](https://colab.research.google.com/ is a plateform provided by Google to use free GPU. However, there is a [Google Colab Pro](https://colab.research.google.com/signup) version too, where more funcationality is provided. 
+
+In this repo, all the scripts are run on the Google Colab. It is prefered to run in GPU for speed-up; on a CPU, they would be very slow.
 
 Thank you, Prof. Andrew Ng, for giving great courses on machine/deep learning! You are awesome! Keep inspiring us.
 
